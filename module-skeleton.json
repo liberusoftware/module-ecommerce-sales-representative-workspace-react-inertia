@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-representative-workspace-react-inertia",
+  "capabilityKey": "planned:ecommerce:sales-representative-workspace",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-sales-representative-workspace-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-representative-workspace.md",
+  "presentationPlan": "projects/ecommerce/react/sales-representative-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
